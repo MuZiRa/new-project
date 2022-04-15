@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div class="bg-blue-100" ><br><br>
 <h1 class="text-2xl font-extrabold text-gray-900">My Personal Details</h1><br>   
-    <img class="inline-block h-12 w-13 rounded-full ring-2 ring-white" src="./assets/photo.jpg"><br><br>   
+    <img class="inline-block h-13 w-13 rounded-full ring-2 ring-white" src="./assets/photo.jpg"><br><br>   
   </div>
 
   <div class="bg-white shadow overflow-hidden sm:rounded-lg">
